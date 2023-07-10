@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(to right,blue 50%,blueviolet 50%);
+}
+#line {
+    width: 100%;
+}
+h1 {
+    text-align: center;
+}
+#name {
+    width: 85%;
+    border: none;
+    border-bottom: 2px solid black;
+}
+#email{
+    width: 85%;
+    border: none;
+    border-bottom: 2px solid black;
+}
+#password{
+    width: 85%;
+    border: none;
+    border-bottom: 2px solid black;
+}
+#cpassword{
+    width: 85%;
+    border: none;
+    border-bottom: 2px solid black;
+}
+div{
+    text-align: center;
+    background-color: white;
+    border: 10px solid white;
+    border-radius: 20px;
+    height: 715px;
+    width: 40%; 
+    margin: auto; 
+    
+}
+
+
+

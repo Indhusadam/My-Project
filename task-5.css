@@ -1,0 +1,20 @@
+.flex-container{
+    display: flex;
+    width: 80%;
+    margin: 25px auto;
+    height: 400px;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.flex-container div{
+    background-color: blue;
+    width: 80px;
+    padding: 70px;
+    border: 1px solid white;
+    font-weight: 700px;
+    color: white;
+    
+
+
+}
